@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trangle
-- 👀 I’m a BI Analyst/Developer
+- 👀 I’m a Data Analyst/BI Developer
 - 🌱 I love travel, cooking and coding
 - 💞️ I’m currently looking for job opportunity
 - 📫 Reach me via email: trang.le.1153@gmail.com
