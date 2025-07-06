@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trancyle
+- 👋 Hi, I’m @trangle
 - 👀 I’m a BI Analyst/Developer
 - 🌱 I love travel, cooking and coding
 - 💞️ I’m currently looking for job opportunity
